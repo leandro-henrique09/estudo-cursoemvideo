@@ -14,9 +14,6 @@ for i in range(1, 5):
         mais_velho = idade
         nome_mais_velho = nome
 
-    if sexo != 'M' and sexo != 'F':
-        print('Digite o sexo correto! ')
-
     if sexo == 'F' and idade < 20:
         mulher_menor += 1
 
