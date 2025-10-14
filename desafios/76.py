@@ -1,4 +1,7 @@
 # minha resposta
+# nessa solução, acabei fazendo o exercicio de um jeito um pouco mais complexo.
+# onde a tupla não vem pronta com itens colocado manualmente, e sim em um loop onde o usuario vai adicionando coisas na tupla;
+
 lista_itens = ()
 c = 0
 while True:
