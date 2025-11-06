@@ -1,3 +1,6 @@
+# Crie um programa que tenha uma tupla única com nomes de produtos e seus respectivos preços, na sequência.
+# No final, mostre uma listagem de preços, organizando os dados em forma tabular.
+
 # minha resposta
 # nessa solução, acabei fazendo o exercicio de um jeito um pouco mais complexo.
 # onde a tupla não vem pronta com itens colocado manualmente, e sim em um loop onde o usuario vai adicionando coisas na tupla;
